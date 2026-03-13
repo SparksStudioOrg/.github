@@ -39,6 +39,15 @@ We enjoy collaborating with other developers, artists, and creators.
 
 If you like experimenting, building games, or designing new technologies — you’ll probably feel at home here.
 
+## 📬 Contact
+
+Have questions, ideas, or want to contribute?
+
+• GitHub Organization: https://github.com/SparksStudioOrg  
+• Email: SparksStudioOrg@proton.me  
+
+You can also open an issue in one of our repositories.
+
 ## 👤 Founder
 
 Sparks' Studio was founded by **[RedSparkDev](https://github.com/RedSparkDevLabs)**.
