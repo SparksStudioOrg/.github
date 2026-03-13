@@ -39,6 +39,12 @@ We enjoy collaborating with other developers, artists, and creators.
 
 If you like experimenting, building games, or designing new technologies — you’ll probably feel at home here.
 
+## 👤 Founder
+
+Sparks' Studio was founded by **[RedSparkDev](https://github.com/RedSparkDevLabs)**.
+
+RedSparkDev is a developer who enjoys creating games, experimental software and programming languages.
+
 ---
 
 *"Every big idea starts as a spark."* ⚡
