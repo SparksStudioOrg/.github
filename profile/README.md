@@ -10,6 +10,12 @@ Our goal is simple:
 
 ---
 
+![GitHub Org](https://img.shields.io/badge/GitHub-SparksStudioOrg-black)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)
+![Founder](https://img.shields.io/badge/GitHub-RedSparkDev-red)
+
+---
+
 ## 🔥 What we build
 
 We explore different kinds of creative and technical projects:
@@ -56,6 +62,22 @@ A single idea, a prototype, or even a sketch can become something much bigger.
 
 That’s why Sparks' Studio exists:
 to explore, learn, and build.
+
+---
+
+## 🧪 Projects
+
+Here are some of our projects:
+
+• ProjectName – short description  
+• ProjectName – short description
+
+---
+
+## 🌟 Vision
+
+Our long-term goal is to explore new ideas in software, games,
+and programming languages while learning and experimenting.
 
 ---
 
