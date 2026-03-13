@@ -48,6 +48,8 @@ Have questions, ideas, or want to contribute?
 
 You can also open an issue in one of our repositories.
 
+If you have suggestions, bug reports, or feature ideas, feel free to open an issue or contact us.
+
 ## 👤 Founder
 
 Sparks' Studio was founded by **[RedSparkDev](https://github.com/RedSparkDevLabs)**.
