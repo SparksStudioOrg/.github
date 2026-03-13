@@ -1,24 +1,52 @@
 # Sparks' Studio ✨
 
-**Sparks' Studio** is a small indie development studio focused on creativity, experimentation, and open-source projects.
+**Sparks' Studio** is a small indie development studio focused on **creativity, experimentation, and open-source software**.
 
-We started by creating games, but our vision is growing into a place where **games, tools, programming languages, and experimental software** come together.
+We started with game development, but our vision is to grow into a place where **games, developer tools, programming languages, and experimental technology** come together.
+
+Our goal is simple:
+
+**Turn small sparks of ideas into real projects.**
+
+---
 
 ## 🔥 What we build
 
-* 🎮 Games and interactive worlds
-* 💻 Developer tools and experiments
-* 🧠 Programming language research
-* 🌐 Open-source software
+We explore different kinds of creative and technical projects:
 
-Our goal is to **turn ideas into sparks that can grow into real projects**.
+* 🎮 **Games** and interactive worlds
+* 💻 **Developer tools** and programming experiments
+* 🧠 **Programming language research**
+* 🌐 **Open-source software**
 
-## 🧩 Current Focus
+Some projects are prototypes, others grow into larger experiments.
+
+---
+
+## 🚀 Current Focus
+
+Right now we are mainly working on:
 
 * Game development
 * Open-source tools
 * Experimental programming language projects
-* Creative coding
+* Creative coding and software experiments
+
+---
+
+## 🌍 Open Source
+
+Open source is an important part of Sparks' Studio.
+
+Some of our projects are released publicly so that others can:
+
+* learn from them
+* contribute improvements
+* build their own ideas on top of them
+
+We believe knowledge grows stronger when it is shared.
+
+---
 
 ## 🚀 Philosophy
 
@@ -29,36 +57,44 @@ A single idea, a prototype, or even a sketch can become something much bigger.
 That’s why Sparks' Studio exists:
 to explore, learn, and build.
 
-## 🌍 Open Source
+---
 
-Some of our projects are released as open source so others can learn from them, contribute, or build their own ideas.
+## 🤝 Get Involved
 
-## 🤝 Collaboration
+We love collaborating with other developers, artists, and creators.
 
-We enjoy collaborating with other developers, artists, and creators.
+You can contribute by:
 
-If you like experimenting, building games, or designing new technologies — you’ll probably feel at home here.
+* reporting bugs
+* suggesting features
+* improving documentation
+* creating pull requests
 
-## 📬 Contact
-
-Have questions, ideas, or want to contribute?
-
-• GitHub Organization: https://github.com/SparksStudioOrg  
-• Email: SparksStudioOrg@proton.me  
-
-You can also open an issue in one of our repositories.
-
-If you have suggestions, bug reports, or feature ideas, feel free to open an issue or contact us.
-
-## 👤 Founder
-
-Sparks' Studio was founded by **[RedSparkDev](https://github.com/RedSparkDevLabs)**.
-
-RedSparkDev is a developer who enjoys creating games, experimental software and programming languages.
+If you enjoy experimenting with technology, building games, or designing new tools, you might enjoy contributing.
 
 ---
 
-*"Every big idea starts as a spark."* ⚡
+## 📬 Contact
+
+Have questions, ideas, or want to collaborate?
+
+• GitHub Organization: https://github.com/SparksStudioOrg
+• Email: [SparksStudioOrg@proton.me](mailto:SparksStudioOrg@proton.me)
+
+You can also open an **Issue** in one of our repositories.
+
+---
+
+## 👤 Founder
+
+Sparks' Studio was founded by
+**[RedSparkDev](https://github.com/RedSparkDevLabs)**
+
+RedSparkDev enjoys creating **games, experimental software, and programming languages**.
+
+---
+
+⚡ *Every big idea starts as a spark.*
 
 
 
