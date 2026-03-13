@@ -12,7 +12,7 @@ Our goal is simple:
 
 ![GitHub Org](https://img.shields.io/badge/GitHub-SparksStudioOrg-black)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)
-![Founder](https://img.shields.io/badge/GitHub-RedSparkDev-red)
+![Founder](https://img.shields.io/badge/Founder-RedSparkDev-red)
 
 ---
 
