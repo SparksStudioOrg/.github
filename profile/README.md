@@ -100,8 +100,8 @@ If you enjoy experimenting with technology, building games, or designing new too
 
 Have questions, ideas, or want to collaborate?
 
-• GitHub Organization: https://github.com/SparksStudioOrg
-• Email: [SparksStudioOrg@proton.me](mailto:SparksStudioOrg@proton.me)
+* GitHub Organization: https://github.com/SparksStudioOrg
+* Email: [SparksStudioOrg@proton.me](mailto:SparksStudioOrg@proton.me)
 
 You can also open an **Issue** in one of our repositories.
 
@@ -111,6 +111,8 @@ You can also open an **Issue** in one of our repositories.
 
 Sparks' Studio was founded by
 **[RedSparkDev](https://github.com/RedSparkDevLabs)**
+
+➡ https://github.com/RedSparkDevLabs
 
 RedSparkDev enjoys creating **games, experimental software, and programming languages**.
 
