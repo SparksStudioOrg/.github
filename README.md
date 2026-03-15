@@ -1,2 +1,2 @@
 # .github
-GitHub profile page of Sparks' Studio
+Organization-wide community-files and templates of Sparks' Studio
