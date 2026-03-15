@@ -118,7 +118,7 @@ RedSparkDev enjoys creating **games, experimental software, and programming lang
 
 ---
 
-⚡ *Every big idea starts as a spark.*
+⚡ *"Spark the Future"*
 
 
 
