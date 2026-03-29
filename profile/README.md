@@ -8,6 +8,8 @@ Our goal is simple:
 
 **Turn small sparks of ideas into real projects.**
 
+<img src="assets/logos/v3.2_SparksStudio_Master.png" width="30%" alt="Sparks' Studio-Logo">
+
 ---
 
 ![GitHub Org](https://img.shields.io/badge/GitHub-SparksStudioOrg-black)
